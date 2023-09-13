@@ -23,6 +23,6 @@ MonoBehaviour:
   encryptionKey: Gl+-SlzdxV7QfQmy
   logLevel: 1
   secretTrophies: 
-  autoConnect: 0
-  user: 
-  token: 
+  autoConnect: 1
+  user: CRAZYFAN125
+  token: Cr4z8
